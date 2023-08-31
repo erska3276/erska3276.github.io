@@ -1,3 +1,6 @@
 I added this on my local PC to test how push and commits works in IntelliJ.
 
 This is a change done on Github page!!
+
+It worked. Now I made a new change. Before commiting this change. I'm gonna
+try and do a change on git. Pull and then commit the changes.
